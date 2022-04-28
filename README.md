@@ -16,12 +16,6 @@
 
  This tutorial will act as step-by-step guide in helping you to understand Knative starting with setup, understanding fundamentals concepts such as service, configuration, revision etc., and finally deploying some use cases which could help deploying serverless applications.
 
-
----
-## Contributing
-
- Please refer to the [how to contribute?](./CONTRIBUTING.md) on how you can contribute to the tutorial
-
  ---
 ## 🦸 Author
 ---
